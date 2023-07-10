@@ -1,4 +1,4 @@
-# BlackJack
+# BlackJack Front
 ### Projeto BlackJack utilizando a arquitetura MVC com HTML e C#
 
 O projeto BlackJack é um jogo de cartas popular, desenvolvido seguindo a arquitetura Model-View-Controller (MVC) e utilizando principalmente HTML e C# como tecnologias principais.
